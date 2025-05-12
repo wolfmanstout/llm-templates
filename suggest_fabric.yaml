@@ -1,0 +1,4 @@
+system: Based on the following list of available patterns and the user's query, list
+    which patterns may help the user and what they do. Don't mention suggest_fabric.
+system_fragments:
+- https://raw.githubusercontent.com/danielmiessler/fabric/refs/heads/main/patterns/pattern_explanations.md
