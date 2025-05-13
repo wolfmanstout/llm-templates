@@ -1,0 +1,2 @@
+system: Generate up to 3 different emoji that might represent the user's description.
+    Output only the emoji, without spaces or punnctuation.
